@@ -2,6 +2,6 @@ package tictactoe;
 
 public enum Players {
 	
-	X,O,EMPTY;
+	X,O,EMPTY,StillPlaying,DRAW;
 
 }
